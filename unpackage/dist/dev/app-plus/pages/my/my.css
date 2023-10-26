@@ -1,0 +1,128 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.flex-clz[data-v-2f1ef635] {
+  height: 17.1875rem;
+}
+.avatar-avatar[data-v-2f1ef635] {
+  border: 5px solid #efefef;
+}
+.text-clz[data-v-2f1ef635] {
+  font-weight: bold;
+  font-size: 1rem !important;
+}
+.text1-clz[data-v-2f1ef635] {
+  margin-left: 0;
+  width: calc(16.6666666667% - 0 - 0) !important;
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  margin-right: 0;
+}
+.button-button-clz[data-v-2f1ef635] {
+  margin: 3px !important;
+}
+.button1-button-clz[data-v-2f1ef635] {
+  margin: 3px !important;
+}
+.flex4-clz[data-v-2f1ef635] {
+  padding-top: 0.625rem;
+  padding-left: 0.625rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 0.0625rem solid #efefef;
+  padding-right: 0.625rem;
+}
+.text2-clz[data-v-2f1ef635] {
+  padding-top: 0;
+  flex: 1;
+  padding-left: 0.3125rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+.icon-clz[data-v-2f1ef635] {
+  color: #939393;
+}
+.icon[data-v-2f1ef635] {
+  font-size: 0.875rem;
+}
+.flex5-clz[data-v-2f1ef635] {
+  padding-top: 0.625rem;
+  padding-left: 0.625rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 0.0625rem solid #efefef;
+  padding-right: 0.625rem;
+}
+.text3-clz[data-v-2f1ef635] {
+  padding-top: 0;
+  flex: 1;
+  padding-left: 0.3125rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+.icon2-clz[data-v-2f1ef635] {
+  color: #939393;
+}
+.icon2[data-v-2f1ef635] {
+  font-size: 0.875rem;
+}
+.flex6-clz[data-v-2f1ef635] {
+  padding-top: 0.625rem;
+  padding-left: 0.625rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 0.0625rem solid #efefef;
+  padding-right: 0.625rem;
+}
+.text5-clz[data-v-2f1ef635] {
+  padding-top: 0;
+  flex: 1;
+  padding-left: 0.3125rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+.icon4-clz[data-v-2f1ef635] {
+  color: #939393;
+}
+.icon4[data-v-2f1ef635] {
+  font-size: 0.875rem;
+}
+.flex7-clz[data-v-2f1ef635] {
+  padding-top: 0.625rem;
+  padding-left: 0.625rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 0.0625rem solid #efefef;
+  padding-right: 0.625rem;
+}
+.text4-clz[data-v-2f1ef635] {
+  padding-top: 0;
+  flex: 1;
+  padding-left: 0.3125rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+.icon1-clz[data-v-2f1ef635] {
+  color: #939393;
+}
+.icon1[data-v-2f1ef635] {
+  font-size: 0.875rem;
+}
+.container25487[data-v-2f1ef635] {
+  padding-left: 0px;
+  padding-right: 0px;
+}

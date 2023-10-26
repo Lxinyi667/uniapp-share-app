@@ -1,0 +1,255 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.tabs-item-title.cur[data-v-02281a80] {
+  color: #ec544e !important;
+}
+.flex-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  border-bottom: 0.0625rem solid #eee;
+  padding-right: 0.3125rem;
+}
+.text-clz[data-v-02281a80] {
+  font-weight: bold;
+  font-size: 0.875rem !important;
+}
+.flex2-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(25% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text2-clz[data-v-02281a80] {
+  font-weight: bold;
+}
+.flex3-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  border-bottom: 0.0625rem solid #eee;
+  padding-right: 0.3125rem;
+}
+.text4-clz[data-v-02281a80] {
+  font-weight: bold;
+  font-size: 0.875rem !important;
+}
+.flex5-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(25% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text6-clz[data-v-02281a80] {
+  font-weight: bold;
+}
+.flex6-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex7-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex8-clz[data-v-02281a80] {
+  background-color: #ec544e;
+  padding-top: 0.5rem;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 1.875rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.5rem;
+  padding-right: 1.875rem;
+}
+.text8-clz[data-v-02281a80] {
+  padding-top: 0.5rem;
+  border-right: 0.1875rem solid #ffffff;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 0.5rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.1875rem solid #ffffff;
+  background-color: #ec544e;
+  flex-shrink: 0;
+  top: 0;
+  left: 0;
+  width: 0.375rem !important;
+  position: absolute;
+  height: 0.375rem !important;
+  padding-right: 0.5rem;
+}
+.flex10-clz[data-v-02281a80] {
+  background-color: rgba(192, 164, 164, 0.16);
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text12-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 0.875rem !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text13-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 0.875rem !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.flex14-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex15-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex16-clz[data-v-02281a80] {
+  background-color: #ec544e;
+  padding-top: 0.5rem;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 1.875rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.5rem;
+  padding-right: 1.875rem;
+}
+.text16-clz[data-v-02281a80] {
+  padding-top: 0.5rem;
+  border-right: 0.1875rem solid #ffffff;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 0.5rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.1875rem solid #ffffff;
+  background-color: #ec544e;
+  flex-shrink: 0;
+  top: 0;
+  left: 0;
+  width: 0.375rem !important;
+  position: absolute;
+  height: 0.375rem !important;
+  padding-right: 0.5rem;
+}
+.flex17-clz[data-v-02281a80] {
+  background-color: rgba(192, 164, 164, 0.16);
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text18-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 0.875rem !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text19-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 0.875rem !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.flex9-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex11-clz[data-v-02281a80] {
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.flex12-clz[data-v-02281a80] {
+  background-color: #ec544e;
+  padding-top: 0.5rem;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 1.875rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.5rem;
+  padding-right: 1.875rem;
+}
+.text10-clz[data-v-02281a80] {
+  padding-top: 0.5rem;
+  border-right: 0.1875rem solid #ffffff;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 0.5rem;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.5rem;
+  border-bottom: 0.1875rem solid #ffffff;
+  background-color: #ec544e;
+  flex-shrink: 0;
+  top: 0;
+  left: 0;
+  width: 0.375rem !important;
+  position: absolute;
+  height: 0.375rem !important;
+  padding-right: 0.5rem;
+}
+.flex13-clz[data-v-02281a80] {
+  background-color: rgba(192, 164, 164, 0.16);
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text14-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 0.875rem !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.text15-clz[data-v-02281a80] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  font-size: 0.875rem !important;
+  margin-top: 0;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.container25487[data-v-02281a80] {
+  padding-left: 0px;
+  padding-right: 0px;
+}
